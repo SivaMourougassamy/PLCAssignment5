@@ -1,0 +1,1 @@
+In terms of safety and convenience, C++ pointers are more convenient but less safe, and java referencing is less convenient but more safe. In C++, pointers can be manipulated with arithmetic, and different types can be cast to each other using pointers. In Java, however, these manipulations aren't allowed to benefit the safety of Java.

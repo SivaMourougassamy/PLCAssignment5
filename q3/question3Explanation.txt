@@ -1,0 +1,1 @@
+When accessing an element of a 2d array many times (10,000 times), accessing elements with subscript is faster in terms of cpu time than accessing elements with pointers. This is displayed in hw5question3output.png file.

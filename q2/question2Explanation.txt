@@ -1,0 +1,1 @@
+Most of the binary operations are not legal when using C to perform the same operations, because of type errors, as displayed in hw5q2errorlog.png file.
