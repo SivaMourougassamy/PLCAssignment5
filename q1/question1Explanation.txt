@@ -1,0 +1,1 @@
+double and int are not name equivalent, but as long as the conversion is not lossy, they are considered structurally equivalent in java, as displayed in EquivalenceExample.java file
